@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Engagement&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Guntur:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    :root {
+    --text: #151407;
+    --background: #fcfcf6;
+    --primary: #c5be3f;
+    --secondary: #8da6dc;
+    --accent: #af76d5;
+    }
+}

@@ -1,0 +1,19 @@
+Daisy Ui components to checkout..
+Card, Carousel, Diff, Collapse, Footer, Drawer, Menu,  Rating, Select, Drawer
+
+try using #252525 insteaqd of 0000000 for black
+colors: {
+ 'text': '#080c11',
+ 'background': '#f4f6fa',
+ 'primary': '#6286b4',
+ 'secondary': '#ac98ce',
+ 'accent': '#a97cc1',
+},
+{
+ 'text': '#151407',
+ 'background': '#fcfcf6',
+ 'primary': '#c5be3f',
+ 'secondary': '#8da6dc',
+ 'accent': '#af76d5',
+},
+
