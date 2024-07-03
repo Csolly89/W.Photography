@@ -17,3 +17,10 @@ colors: {
  'accent': '#af76d5',
 },
 
+Landing page needed after Hero
+Why us (with link to seperate page for full bio)
+Features examples
+Features Links/lists
+Testimonials
+Call to action (Subscribe/Contact)
+Footer with social media's/email links
