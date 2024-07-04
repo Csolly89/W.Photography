@@ -12,3 +12,25 @@
     --background: #fcfcf6;
     }
 }
+
+/* kevinpowell infinite scroll video 11:01 marker */
+/* 
+.scroller {
+    max-width: 95%;
+}
+
+.scroller_inner {
+    padding-block: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.scroller[data-animated="true"]{
+    overflow: hidden;
+    mask: linear-gradient();
+}
+
+.scroller[data-animated="true"] .scroller_inner{
+    flex-wrap: nowrap;
+} */
